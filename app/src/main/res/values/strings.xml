@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FA_BaoTrieuThai_866206_Android</string>
+    <string name="add_a_new_product">Add a new product</string>
+    <string name="enter_product_name">Enter product name</string>
+    <string name="enter_product_description">Enter product description</string>
+    <string name="enter_product_price">Enter product price</string>
+    <string name="enter_product_lat">Enter product latitude</string>
+    <string name="enter_product_lng">Enter product longitude</string>
+    <string name="view_products">View All Products</string>
+    <string name="add_product">Add Product</string>
+    <string name="edit_product">Edit Product</string>
+    <string name="detail_product">Product Detail</string>
+    <string name="update">Update</string>
+    <string name="google_maps_key">AIzaSyABlLJ3FGVPEIrvbp63_zQHgqXBe80IOYI</string>
+    <string name="search">Search...</string>
+</resources>

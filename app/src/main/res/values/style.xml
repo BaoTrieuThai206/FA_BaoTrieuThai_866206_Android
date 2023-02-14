@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView.ActionBar">
+        <item name="searchIcon">@drawable/ic_search</item>
+        <item name="queryBackground">@color/textColorPrimary</item>
+        <item name="searchHintIcon">@null</item>
+        <item name="queryHint">@string/search</item>
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="android:textColorHint">@color/textColorDisabled</item>
+        <item name="android:tint">@color/textColorPrimary</item>
+    </style>
+</resources>
